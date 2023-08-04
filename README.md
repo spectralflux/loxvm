@@ -3,4 +3,4 @@
 https://craftinginterpreters.com/a-bytecode-virtual-machine.html
 
 ## Current Bookmark
-https://craftinginterpreters.com/scanning-on-demand.html
+https://craftinginterpreters.com/compiling-expressions.html
