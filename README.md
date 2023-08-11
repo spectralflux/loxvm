@@ -3,4 +3,4 @@
 https://craftinginterpreters.com/a-bytecode-virtual-machine.html
 
 ## Current Bookmark
-https://craftinginterpreters.com/global-variables.html
+https://craftinginterpreters.com/local-variables.html
