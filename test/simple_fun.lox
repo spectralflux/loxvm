@@ -1,0 +1,7 @@
+fun doStuff(x) {
+    return x + 5;
+}
+
+var n = 3;
+var y = doStuff(5 + n);
+print y;

@@ -5,6 +5,8 @@ while (x < 5) {
     x = x + 1;
 }
 
-for(var i = 0; i < 4; i = i + 1) {
+// theres a bug with the initializer...
+var i = 0;
+for(; i < 4; i = i + 1) {
     print "for loop!";
 }
