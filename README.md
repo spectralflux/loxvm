@@ -3,4 +3,4 @@
 https://craftinginterpreters.com/a-bytecode-virtual-machine.html
 
 ## Current Bookmark
-https://craftinginterpreters.com/calls-and-functions.html
+https://craftinginterpreters.com/closures.html
