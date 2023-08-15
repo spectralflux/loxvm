@@ -1,0 +1,6 @@
+class Thinger {}
+
+var myThing = Thinger();
+myThing.x = 4;
+myThing.y = 10;
+print myThing.x * myThing.y;
