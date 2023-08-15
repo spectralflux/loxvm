@@ -1,6 +1,5 @@
 # loxvm - Lox lang virtual machine
 
-https://craftinginterpreters.com/a-bytecode-virtual-machine.html
+VM for a high level language - Lox. Single pass compiler, with garbage collection (using a mark-and-sweep algorithm)
 
-## Current Bookmark
-https://craftinginterpreters.com/superclasses.html
+https://craftinginterpreters.com/a-bytecode-virtual-machine.html
