@@ -3,4 +3,4 @@
 https://craftinginterpreters.com/a-bytecode-virtual-machine.html
 
 ## Current Bookmark
-https://craftinginterpreters.com/methods-and-initializers.html
+https://craftinginterpreters.com/superclasses.html
